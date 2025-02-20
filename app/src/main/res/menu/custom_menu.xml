@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Search"
+        android:title="Search"
+        android:icon="@drawable/ic_search1"
+        app:showAsAction="always">
+
+    </item>
+
+
+
+
+    <item
+        android:id="@+id/Instagram"
+        android:title="Instagram"
+        android:icon="@drawable/ic_search1"
+        app:showAsAction="collapseActionView">
+
+    </item>
+
+    <item
+        android:id="@+id/Facebook"
+        android:title="Facebook"
+        android:icon="@drawable/ic_search1"
+        app:showAsAction="collapseActionView">
+
+    </item>
+
+    <item
+        android:id="@+id/Whatsapp"
+        android:title="Whatsapp"
+        android:icon="@drawable/ic_search1"
+        app:showAsAction="collapseActionView">
+
+    </item>
+
+</menu>
