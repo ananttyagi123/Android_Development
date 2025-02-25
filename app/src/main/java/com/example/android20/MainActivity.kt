@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "Instagram is Selected", Toast.LENGTH_SHORT).show()
                 return true
             }
-            // default option
+
             else->super.onOptionsItemSelected(item)
         }
     }
