@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         menuInflater.inflate(R.menu.custom_menu, menu)
         return true
 
-        // when you don;t write the code in kt file then while writing the kt file for custom menu for target action using menu
+
         //  menuInflater.inflate()
         // it allows you to create menu or list of items
         // R.custom_menu.menu is the custom_menu.xml file  then it connects sto the kt file
