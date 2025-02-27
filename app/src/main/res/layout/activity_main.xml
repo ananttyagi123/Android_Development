@@ -65,7 +65,6 @@
                 android:marginBottom="10dp"/>
 
             <Button
-
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Button 2"
