@@ -50,6 +50,10 @@ class MainActivity : AppCompatActivity() {
 
             else->super.onOptionsItemSelected(item)
         }
+        // toast msg is like a pop-up msg appear for a short duration of time
+        // LENGTH_SHORT = 3 sec
+
+
     }
 }
 
