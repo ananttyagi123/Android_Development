@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:text="I am a custom Toast"
         android:textColor="@color/black"
-        android:textSize="30dp"
+        android:textSize="40dp"
         />
 
 </LinearLayout>
